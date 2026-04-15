@@ -1,8 +1,8 @@
-# ProClaw HumanOS Ultimate
+# ProClaw-HumanOS-Ultimate.skill
 
 <div align="center">
 
-**从需求诊断到人格演化的全链路HumanOS构建与分析系统**
+**从需求诊断到人格演化的全链路HumanOS分析与构建技能 ｜ 适用于OpenClaw \ hermes agent 等等**
 
 [English](#english) | [中文](#chinese)
 
